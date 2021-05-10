@@ -1,0 +1,179 @@
+body {
+background: #000000;
+}
+
+td {
+	font: normal 11px Tahoma, Arial;
+	color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5 {
+
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font: normal tahoma, arial 24.45px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+
+a {
+
+font: normal 11px Tahoma, Arial;
+color: #ffffff;
+text-decoration: underline;
+}
+
+a:hover {
+
+font: normal 11px Tahoma, Arial;
+color: #ffffff;
+text-decoration: none;
+
+}
+
+a.white-link-underline {	
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+.white-text{
+color: #ffffff;
+text-decoration: none;
+
+}
+a.b1
+{
+font:  14px tahoma, Arial;
+color: #fffea0;
+text-decoration: none;
+padding: 15px;
+margin: 0px;
+
+}
+.p
+{
+padding: 0 0 0 20px;
+}
+.p1
+{
+padding: 0 0 0 30px;
+}
+.p2
+{
+padding: 150px 0 0 250px;
+}
+.bg1
+{
+background: #ba1617 url(images/index_11.gif) top repeat-x;
+}
+.bg2
+{
+background: #000000 url(images/index_10.gif) top no-repeat;
+}
+.bord
+{
+border: 1px solid #c5d85a;
+}
+.menu 
+{
+color:#8c247b;
+vertical-align:top;
+height: 35px;
+padding: 10px 0 0 20px;
+}
+.menu a
+{
+color:#8c247b;
+font: bold 11px  tahoma, Arial;
+text-decoration: none;
+}
+
+
+.blye-text-underline {
+color: #a257e0;
+text-decoration: underline;
+}
+
+.blye-text-regular {
+color: #a257e0;
+text-decoration: none;
+}
+
+.yellow-text-regular {
+color: #ffb400;
+text-decoration: none;
+}
+
+.yellow-text-underline {
+color: #ffb400;
+text-decoration: underline;
+}
+
+.orange-text-regular {
+color: #fe6b1d;
+text-decoration: none;
+}
+
+.orange-text-underline {
+color: #fe6b1d;
+text-decoration: underline;
+}
+.broun-text-regular {
+color: #de4e06;
+text-decoration: none;
+}
+
+.broun-text-underline {
+color: #de4e06;
+text-decoration: underline;
+}
+
+.red-text-regular {
+color: #c91919;
+text-decoration: none;
+}
+
+.red-text-underline {
+color: #c91919;
+text-decoration: underline;
+}
+.black-text-regular {
+color: #000000;
+text-decoration: none;
+}
+
+.black-text-underline {
+color: #000000;
+text-decoration: underline;
+}
+
+
+.gray-text-underline{
+color: #7c7c7c;
+text-decoration: underline;
+}
+.gray-text-regular{
+color: #7c7c7c;
+text-decoration: none;
+}
+
+.green-text{
+color: #a5b66e;
+text-decoration: none;
+}
+
+.green-text-underline{
+color: #a5b66e;
+text-decoration: underline;
+}
